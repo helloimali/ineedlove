@@ -14,8 +14,9 @@ height: 100%;
 
 .head h1,h2{
     text-align: center;
-    height: 50%;
-}
+position: relative;
+margin-left: auto;
+top:50%;
 .pg1{
 width: 100%;
 height: 100%;
