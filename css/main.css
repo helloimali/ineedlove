@@ -69,6 +69,14 @@ background-color: #3498DB;
 padding: 10px;
 }
 
+.gdrive h1{
+font-size: 60px;
+}
+
+.gdrive p{
+font-size: 30px;
+}
+
 .gq{
     width: 400px;
   margin: 40px;
