@@ -10,6 +10,7 @@ background-image: url(../img/sad.jpg);
     background-size:cover;
 background-position: center;
   background-attachment: fixed;
+padding: 10px;
 }
 
 .head h1,h2{
@@ -31,6 +32,32 @@ top:50%;
 .pg1{
 width: 100%;
 height: 100%;
+text-align: center;
+background-color: #4B1C8C;
+padding: 10px;
+}
+
+.pg1 h1{
+font-size: 60px;
+position: relative;
+margin-left: auto;
+top:50%;
+color: #ECF0F1;
+}
+
+.pg1 h2{
+font-size: 50px;
+position: relative;
+margin-left: auto;
+top:50%;
+}
+
+.pg1 p{
+font-size: 40px;
+position: relative;
+margin-left: auto;
+top:50%;
+color: #F2AC57;
 }
 
 .gdrive{
