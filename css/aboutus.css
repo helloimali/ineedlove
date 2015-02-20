@@ -1,5 +1,6 @@
 body,html{
-
+z-index: -1;
+background-color: rgb(64,148,180);
 height: 100%;
 }
 
