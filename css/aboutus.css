@@ -66,3 +66,18 @@ blockquote{
     color: rgb(52, 152, 219);
 margin-top: 30%;
 }
+
+a{
+text-decoration: none;
+color: rgb(236, 240, 241);
+}
+
+a:hover{
+    color:rgb(59,252,52);
+-webkit-transition: color .5s ease;
+-moz-transition: color .5s ease;
+-ms-transition: color .5s ease;
+-o-transition: color .5s ease;
+transition: color .5s ease;
+text-decoration: none;
+}
