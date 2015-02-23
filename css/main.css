@@ -102,8 +102,9 @@ padding-top: 1px;
 padding-bottom: 1px;
     width:100%;
     bottom:0px;
-position:absolute;
+position:fixed;
 right: 0px;
+z-index: 10;
 }
 
 #footer h6{
@@ -112,7 +113,20 @@ font-size: 12px;
 text-align: center;
 }
 
+a{
+text-decoration: none;
+color: rgb(236, 240, 241);
+}
 
+a:hover{
+    color:rgb(231,208,45);
+-webkit-transition: color .5s ease;
+-moz-transition: color .5s ease;
+-ms-transition: color .5s ease;
+-o-transition: color .5s ease;
+transition: color .5s ease;
+text-decoration: none;
+}
 
 
 @-webkit-keyframes beat {
