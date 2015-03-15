@@ -9,7 +9,7 @@ font-size: 70px;
 }
 
 .home{
-width: 100%;
+
 height: 100%;
 padding: 10px;
 background-color: rgb(64,148,180);
@@ -23,8 +23,8 @@ top:35%;
 }
 
 .ali{
-width: 100%;
-height: 100%;
+
+height: 800px;
 padding: 10px;
 background-color: rgb(222,66,69);
 }
@@ -34,22 +34,22 @@ color: rgb(71,72,75);
 }
 
 .elaine{
-width: 100%;
-height: 100%;
+
+height: 800px;
 padding: 10px;
 background-color: rgb(142, 68, 173);
 }
 
 .jenn{
-width: 100%;
-height: 100%;
+
+height: 800px;
 padding: 10px;
 background-color: rgb(46, 204, 113);
 }
 
 .matt{
-width: 100%;
-height: 100%;
+
+height: 800px;
 padding: 10px;
 background-color: rgb(211, 84, 0);
 }
