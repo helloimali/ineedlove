@@ -25,7 +25,7 @@ top:35%;
 .ali{
 
 height: 800px;
-padding: 10px;
+padding: 0px;
 background-color: rgb(222,66,69);
 }
 
@@ -36,21 +36,21 @@ color: rgb(71,72,75);
 .elaine{
 
 height: 800px;
-padding: 10px;
+padding: 0px;
 background-color: rgb(142, 68, 173);
 }
 
 .jenn{
 
 height: 800px;
-padding: 10px;
+padding: 0px;
 background-color: rgb(46, 204, 113);
 }
 
 .matt{
 
 height: 800px;
-padding: 10px;
+padding: 0px;
 background-color: rgb(211, 84, 0);
 }
 
